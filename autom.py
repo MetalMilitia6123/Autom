@@ -8,7 +8,7 @@ import re
 from msedge.selenium_tools import EdgeOptions
 from msedge.selenium_tools import Edge
 from selenium.webdriver.edge.options import Options
-#
+
 
 dir_inicial = "C:\\Tablero\\"
 adjuntos = "C:\\Tablero\\Adjuntos\\"
